@@ -118,7 +118,7 @@ corner, all live.
 - 
 
 ### Extended Difficulty Adjustment
-- You can extend DIFFICULTY Adjust to negative values, Daycore for upto 0.01x (MIGHT CRASH!!!) and DoubleTime to over 100.0x. With EMPYREAN, Nothing stands in your way to practice. 
+- You can extend DIFFICULTY Adjust to negative values, Daycore for upto 0.01x (MIGHT CRASH!!!) and DoubleTime to over 100.0x. With EMPYREAN, Nothing stands in your way.
 
 ---
 
