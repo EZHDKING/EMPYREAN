@@ -33,6 +33,8 @@ target user already knows osu!; they do not need tutorials, animated menus, or a
 feed. They need the map to load, the cursor to track perfectly, and the frame rate to be
 high and stable. EMPYREAN is built around that user and nothing else.
 
+Furthermore! Thanks to the EZHD Upscaler the client can hypothetically run on extremely weak machines "potatos" by downscaling the resolution for additional performance.
+
 ---
 
 ## Why EMPYREAN over other practice clients (e.g. McOsu)
