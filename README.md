@@ -2,7 +2,14 @@
 
 **osu!lazer, but better.**
 
+[![SHOWCASE](https://img.youtube.com/vi/nD2LMgIkZzM/maxresdefault.jpg)](https://www.youtube.com/watch?v=nD2LMgIkZzM)
+
 > Creator: **EZHD KING**
+> DEDICATED TO TERRY A. DAVIS
+
+# “An idiot admires complexity, a genius admires simplicity, a physicist tries to make it simple, for an idiot anything the more complicated it is the more he will admire it, if you make something so clusterfucked he can't understand it he's gonna think you're a god cause you made it so complicated nobody can understand it. That's how they write journals in Academics, they try to make it so complicated people think you're a genius”
+
+- Terry A. Davis
 
 EMPYREAN is a fork of [osu!lazer](https://github.com/ppy/osu) rebuilt for top players. It
 exists to do three things the upstream client does not do well enough for high-level play:
@@ -105,6 +112,9 @@ corner, all live.
   Tiered PGO on, invariant globalisation on.
 - Launches with the Vulkan renderer and the multithreaded execution mode for the lowest
   CPU submission cost and input latency on modern hardware.
+
+### Improved Access to Beatmaps
+- You can create collections / delete them / sort them / rename them / group them extremely easy with the simplistic Windows 95/98/XP GUI Everyone is familiar with. Everything is crystal clear and simplistic, nothing is complicated.
 
 ---
 
