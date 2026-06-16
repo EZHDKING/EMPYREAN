@@ -1,0 +1,218 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="header_title" xml:space="preserve">
+    <value>notifications</value>
+  </data>
+  <data name="header_description" xml:space="preserve">
+    <value>waiting for 'ya</value>
+  </data>
+  <data name="running_tasks" xml:space="preserve">
+    <value>Running Tasks</value>
+  </data>
+  <data name="clear_all" xml:space="preserve">
+    <value>Clear All</value>
+  </data>
+  <data name="battery_low" xml:space="preserve">
+    <value>Your battery level is low! Charge your device to prevent interruptions during gameplay.</value>
+  </data>
+  <data name="game_volume_too_low" xml:space="preserve">
+    <value>Your game volume is too low to hear anything! Click here to restore it.</value>
+  </data>
+  <data name="no_autoplay_mod" xml:space="preserve">
+    <value>The current ruleset doesn't have an autoplay mod available!</value>
+  </data>
+  <data name="audio_playback_issue" xml:space="preserve">
+    <value>osu! doesn't seem to be able to play audio correctly.
+
+Please try changing your audio device to a working setting.</value>
+  </data>
+  <data name="score_overlay_disabled" xml:space="preserve">
+    <value>The score overlay is currently disabled. You can toggle this by pressing {0}.</value>
+  </data>
+  <data name="unsupported_or_dangerous_url_protocol" xml:space="preserve">
+    <value>The URL {0} has an unsupported or dangerous protocol and will not be opened.</value>
+  </data>
+  <data name="subsequent_messages_logged" xml:space="preserve">
+    <value>Subsequent messages have been logged. Click to view log files.</value>
+  </data>
+  <data name="tablet_support_disabled_due_to_error" xml:space="preserve">
+    <value>Disabling tablet support due to error: "{0}"</value>
+  </data>
+  <data name="encountered_tablet_warning" xml:space="preserve">
+    <value>Encountered tablet warning, your tablet may not function correctly. Click here for a list of all tablets supported.</value>
+  </data>
+  <data name="unsupported_link_type" xml:space="preserve">
+    <value>This link type is not yet supported!</value>
+  </data>
+  <data name="invited_you_to_the_multiplayer" xml:space="preserve">
+    <value>{0} invited you to the multiplayer match "{1}"! Click to join.</value>
+  </data>
+  <data name="missing_beatmap_for_replay" xml:space="preserve">
+    <value>You do not have the beatmap for this replay.</value>
+  </data>
+  <data name="downloading_beatmap_for_replay" xml:space="preserve">
+    <value>Downloading missing beatmap for this replay...</value>
+  </data>
+  <data name="mismatching_beatmap_for_replay" xml:space="preserve">
+    <value>Your local copy of the beatmap for this replay appears to be different than expected. You may need to update or re-download it.</value>
+  </data>
+  <data name="game_version_after_update" xml:space="preserve">
+    <value>You are now running osu! {0}.
+Click to see what's new!</value>
+  </data>
+  <data name="update_ready_to_install" xml:space="preserve">
+    <value>Update ready to install. Click to restart!</value>
+  </data>
+  <data name="not_official_build" xml:space="preserve">
+    <value>This is not an official build of the game. Scores will not be submitted and other online systems may not work as intended.</value>
+  </data>
+  <data name="downloading_update" xml:space="preserve">
+    <value>Downloading update...</value>
+  </data>
+  <data name="multiplayer_room_ended" xml:space="preserve">
+    <value>This multiplayer room has ended. Click to display room results.</value>
+  </data>
+  <data name="mention" xml:space="preserve">
+    <value>Mention</value>
+  </data>
+  <data name="mention_details" xml:space="preserve">
+    <value>{0} in {1}</value>
+  </data>
+  <data name="friend_online" xml:space="preserve">
+    <value>Online: {0}</value>
+  </data>
+  <data name="friend_offline" xml:space="preserve">
+    <value>Offline: {0}</value>
+  </data>
+  <data name="api_connection_interrupted" xml:space="preserve">
+    <value>Connection to online services was interrupted. osu! will be operating with limited functionality.</value>
+  </data>
+  <data name="another_device_disconnect" xml:space="preserve">
+    <value>You have been logged out on this device due to a login to your account on another device.</value>
+  </data>
+  <data name="account_change_disconnect" xml:space="preserve">
+    <value>You have been logged out due to a change to your account. Please log in again.</value>
+  </data>
+  <data name="downloading" xml:space="preserve">
+    <value>Downloading {0}</value>
+  </data>
+  <data name="collections_import_initialising" xml:space="preserve">
+    <value>Collections import is initialising...</value>
+  </data>
+  <data name="reading_collections" xml:space="preserve">
+    <value>Reading collections...</value>
+  </data>
+  <data name="collections_import_progress" xml:space="preserve">
+    <value>Imported {0} collections</value>
+  </data>
+  <data name="collections_import_progress_total" xml:space="preserve">
+    <value>Imported {0} of {1} collections</value>
+  </data>
+  <data name="error_automatically_reported" xml:space="preserve">
+    <value>This error has been automatically reported to the dev team.</value>
+  </data>
+  <data name="update_available" xml:space="preserve">
+    <value>A newer release of osu! has been found ({0} → {1}).</value>
+  </data>
+  <data name="update_available_manual_install" xml:space="preserve">
+    <value>Click here to download the new version, which can be installed over the top of your existing installation.</value>
+  </data>
+  <data name="update_available_package_managed" xml:space="preserve">
+    <value>Check with your package manager / provider to bring osu! up-to-date!</value>
+  </data>
+  <data name="action_interrupted_by_dialog" xml:space="preserve">
+    <value>An action was interrupted due to a dialog being displayed.</value>
+  </data>
+  <data name="file_export_ongoing" xml:space="preserve">
+    <value>Exporting {0}...</value>
+  </data>
+  <data name="file_export_finished" xml:space="preserve">
+    <value>Exported {0}! Click to view.</value>
+  </data>
+  <data name="logs_export_ongoing" xml:space="preserve">
+    <value>Exporting logs...</value>
+  </data>
+  <data name="logs_export_finished" xml:space="preserve">
+    <value>Exported logs! Click to view.</value>
+  </data>
+  <data name="elevated_privileges" xml:space="preserve">
+    <value>Running osu! as {0} does not improve performance, may break integrations and poses a security risk. Please run the game as a normal user.</value>
+  </data>
+  <data name="macos_app_location" xml:space="preserve">
+    <value>On macOS, installing osu! to a directory other than /Applications or {0}/Applications can cause issues with updating the game. Please move your game installation to one of these locations.</value>
+  </data>
+  <data name="screenshot_saved" xml:space="preserve">
+    <value>Screenshot saved! Click to view.
+{0}</value>
+  </data>
+  <data name="multiplayer_server_shutting_down_immediately" xml:space="preserve">
+    <value>The multiplayer server will be right back...</value>
+  </data>
+  <data name="multiplayer_server_shutting_down_remaining" xml:space="preserve">
+    <value>The multiplayer server is restarting in {0}.</value>
+  </data>
+  <data name="collection_created" xml:space="preserve">
+    <value>Created new collection "{0}" with {1} beatmaps.</value>
+  </data>
+  <data name="collection_beatmaps_added" xml:space="preserve">
+    <value>Added {0} beatmaps to collection "{1}".</value>
+  </data>
+</root>

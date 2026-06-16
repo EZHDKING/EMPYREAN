@@ -1,0 +1,142 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0"/>
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string"/>
+              <xsd:attribute name="type" type="xsd:string"/>
+              <xsd:attribute name="mimetype" type="xsd:string"/>
+              <xsd:attribute ref="xml:space"/>
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string"/>
+              <xsd:attribute name="name" type="xsd:string"/>
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1"/>
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2"/>
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1"/>
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3"/>
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4"/>
+              <xsd:attribute ref="xml:space"/>
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1"/>
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required"/>
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="header_text" xml:space="preserve">
+    <value>Thận trọng</value>
+  </data>
+  <data name="deletion_header_text" xml:space="preserve">
+    <value>Bạn có chắc chắn muốn xóa cái sau đây:</value>
+  </data>
+  <data name="confirm" xml:space="preserve">
+    <value>Được. Cứ làm đi.</value>
+  </data>
+  <data name="cancel" xml:space="preserve">
+    <value>Không! Huỷ bỏ nhiệm vụ
+</value>
+  </data>
+  <data name="stable_directory_location_header_text" xml:space="preserve">
+    <value>Không thể tự động tìm thấy bản cài đặt osu!stable.</value>
+  </data>
+  <data name="stable_directory_location_body_text" xml:space="preserve">
+    <value>Không tìm thấy bản cài đặt hiện có. Nếu bạn biết vị trí của nó, bạn có thể giúp xác định nó.</value>
+  </data>
+  <data name="stable_directory_location_ok_button" xml:space="preserve">
+    <value>Tôi biết vị trí của nó!</value>
+  </data>
+  <data name="stable_directory_location_cancel_button" xml:space="preserve">
+    <value>Thực ra tôi chưa cài osu!stable.</value>
+  </data>
+  <data name="beatmap_clear_scores_body_text" xml:space="preserve">
+    <value>Tất cả điểm cục bộ của {0}</value>
+  </data>
+  <data name="close_playlist_header_text" xml:space="preserve">
+    <value>Bạn có chắc chắn muốn đóng danh sách phát sau không:</value>
+  </data>
+  <data name="confirm_abort_match_header_text" xml:space="preserve">
+    <value>Bạn có chắc chắn muốn huỷ bỏ trận đấu này không?</value>
+  </data>
+  <data name="confirm_exit_header_text" xml:space="preserve">
+    <value>Bạn có chắc chắn muốn thoát osu!?</value>
+  </data>
+  <data name="confirm_exit_body_text" xml:space="preserve">
+    <value>Cơ hội cuối cùng để quay lại</value>
+  </data>
+  <data name="confirm_exit_body_text_ongoing_operations" xml:space="preserve">
+    <value>Hiện tại đang có một số hoạt động chạy nền sẽ bị huỷ bỏ nếu bạn tiếp tục:
+
+{0}</value>
+  </data>
+  <data name="confirm_exit_body_text_other_ongoing_operations" xml:space="preserve">
+    <value>Hiện tại đang có một số hoạt động chạy nền sẽ bị huỷ bỏ nếu bạn tiếp tục:
+
+{0}
+
+và {1} hoạt động khác.</value>
+  </data>
+  <data name="confirm_exit_ok_button" xml:space="preserve">
+    <value>Cho tôi ra!</value>
+  </data>
+  <data name="confirm_exit_cancel_button" xml:space="preserve">
+    <value>Chỉ một chút nữa thôi...</value>
+  </data>
+  <data name="confirm_discard_changes_header_text" xml:space="preserve">
+    <value>Bạn có chắc chắn muốn quay lại không?</value>
+  </data>
+  <data name="confirm_discard_changes_body_text" xml:space="preserve">
+    <value>Hành động này sẽ loại bỏ mọi thay đổi chưa được lưu</value>
+  </data>
+  <data name="confirm_discard_changes_cancel_button" xml:space="preserve">
+    <value>Không tôi không có ý đó</value>
+  </data>
+  <data name="external_link_body_text" xml:space="preserve">
+    <value>Bạn có chắc chắn muốn mở liên kết sau trong trình duyệt web không?
+
+{0}</value>
+  </data>
+  <data name="external_link_ok_button" xml:space="preserve">
+    <value>Mở bằng trình duyệt</value>
+  </data>
+  <data name="delete_comment_body_text" xml:space="preserve">
+    <value>Bạn có chắc chắn muốn xoá bình luận của bạn không?</value>
+  </data>
+  <data name="confirm_exit_multiplayer_match_body_text" xml:space="preserve">
+    <value>Bạn có chắc chắn muốn rời trận đấu nhiều người này không?</value>
+  </data>
+</root>

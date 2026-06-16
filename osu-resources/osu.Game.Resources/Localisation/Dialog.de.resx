@@ -1,0 +1,141 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0"/>
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string"/>
+              <xsd:attribute name="type" type="xsd:string"/>
+              <xsd:attribute name="mimetype" type="xsd:string"/>
+              <xsd:attribute ref="xml:space"/>
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string"/>
+              <xsd:attribute name="name" type="xsd:string"/>
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1"/>
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2"/>
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1"/>
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3"/>
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4"/>
+              <xsd:attribute ref="xml:space"/>
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1"/>
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required"/>
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="header_text" xml:space="preserve">
+    <value>Vorsicht</value>
+  </data>
+  <data name="deletion_header_text" xml:space="preserve">
+    <value>Bist du sicher, dass du Folgendes löschen möchtest:</value>
+  </data>
+  <data name="confirm" xml:space="preserve">
+    <value>Ja. Los geht's.</value>
+  </data>
+  <data name="cancel" xml:space="preserve">
+    <value>Nein! Mission abbrechen</value>
+  </data>
+  <data name="stable_directory_location_header_text" xml:space="preserve">
+    <value>Fehler beim automatischen Auffinden einer osu!stable-Installation.</value>
+  </data>
+  <data name="stable_directory_location_body_text" xml:space="preserve">
+    <value>Eine vorhandene Installation konnte nicht gefunden werden. Hilf gerne, wenn du weißt, wo sie ist.</value>
+  </data>
+  <data name="stable_directory_location_ok_button" xml:space="preserve">
+    <value>Ich weiß, wo sie ist!</value>
+  </data>
+  <data name="stable_directory_location_cancel_button" xml:space="preserve">
+    <value>osu!stable ist aktuell nicht installiert.</value>
+  </data>
+  <data name="beatmap_clear_scores_body_text" xml:space="preserve">
+    <value>Alle lokalen Punktestände auf {0}</value>
+  </data>
+  <data name="close_playlist_header_text" xml:space="preserve">
+    <value>Bist du sicher, dass du die folgende Playlist schließen möchtest:</value>
+  </data>
+  <data name="confirm_abort_match_header_text" xml:space="preserve">
+    <value>Bist du sicher, dass du das Spiel abbrechen möchtest?</value>
+  </data>
+  <data name="confirm_exit_header_text" xml:space="preserve">
+    <value>Bist du sicher, dass du osu! verlassen möchtest?</value>
+  </data>
+  <data name="confirm_exit_body_text" xml:space="preserve">
+    <value>Letzte Chance zum Umkehren</value>
+  </data>
+  <data name="confirm_exit_body_text_ongoing_operations" xml:space="preserve">
+    <value>Derzeit laufen einige Hintergrundprozesse, die abgebrochen werden, wenn du fortfährst:
+
+{0}</value>
+  </data>
+  <data name="confirm_exit_body_text_other_ongoing_operations" xml:space="preserve">
+    <value>Wenn du fortfährst, werden diese Hintergrundprozesse abgebrochen:
+
+{0}
+
+und {1} weitere(r) Prozess(e).</value>
+  </data>
+  <data name="confirm_exit_ok_button" xml:space="preserve">
+    <value>Ja, ich habe genug!</value>
+  </data>
+  <data name="confirm_exit_cancel_button" xml:space="preserve">
+    <value>Nur noch ein bisschen...</value>
+  </data>
+  <data name="confirm_discard_changes_header_text" xml:space="preserve">
+    <value>Möchtest du wirklich zurück?</value>
+  </data>
+  <data name="confirm_discard_changes_body_text" xml:space="preserve">
+    <value>Ungespeicherte Änderungen werden verworfen</value>
+  </data>
+  <data name="confirm_discard_changes_cancel_button" xml:space="preserve">
+    <value>Nein, das war nicht meine Absicht</value>
+  </data>
+  <data name="external_link_body_text" xml:space="preserve">
+    <value>Bist du sicher, dass du den folgenden Link im Webbrowser öffnen möchtest?
+
+{0}</value>
+  </data>
+  <data name="external_link_ok_button" xml:space="preserve">
+    <value>Im Browser öffnen</value>
+  </data>
+  <data name="delete_comment_body_text" xml:space="preserve">
+    <value>Möchtest du wirklich deinen Kommentar löschen?</value>
+  </data>
+  <data name="confirm_exit_multiplayer_match_body_text" xml:space="preserve">
+    <value>Bist du sicher, dass du dieses Mehrspieler-Spiel verlassen möchtest?</value>
+  </data>
+</root>

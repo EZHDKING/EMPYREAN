@@ -1,0 +1,256 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="support.convinced.title" xml:space="preserve">
+    <value>Convencido! {0}</value>
+  </data>
+  <data name="support.convinced.support" xml:space="preserve">
+    <value>apoie o osu!</value>
+  </data>
+  <data name="support.convinced.gift" xml:space="preserve">
+    <value>ou ofereça o "supporter" a outros jogadores</value>
+  </data>
+  <data name="support.convinced.instructions" xml:space="preserve">
+    <value>clique no botão do coração para proceder à osu!store</value>
+  </data>
+  <data name="support.why-support.title" xml:space="preserve">
+    <value>Porque é que deveria apoiar o osu!? Para onde vai o dinheiro?</value>
+  </data>
+  <data name="support.why-support.team.title" xml:space="preserve">
+    <value>Apoiar a equipa</value>
+  </data>
+  <data name="support.why-support.team.description" xml:space="preserve">
+    <value>Uma pequena equipa desenvolve e mantém o osu!. O seu apoio ajuda-os a, sabe... viver.</value>
+  </data>
+  <data name="support.why-support.infra.title" xml:space="preserve">
+    <value>Infraestrutura do servidor</value>
+  </data>
+  <data name="support.why-support.infra.description" xml:space="preserve">
+    <value>As contribuições vão para os servidores que executam a página, serviços multijogadores, classificações online, etc.</value>
+  </data>
+  <data name="support.why-support.featured-artists.title" xml:space="preserve">
+    <value>Artistas destacados</value>
+  </data>
+  <data name="support.why-support.featured-artists.description" xml:space="preserve">
+    <value>Com o seu apoio, podemos contactar ainda mais artistas incríveis e licenciar mais músicas fantásticas para usar no osu!!</value>
+  </data>
+  <data name="support.why-support.featured-artists.link_text" xml:space="preserve">
+    <value>Ver a equipa atual &amp;raquo;</value>
+  </data>
+  <data name="support.why-support.ads.title" xml:space="preserve">
+    <value>Mantenha o osu! autossustentável</value>
+  </data>
+  <data name="support.why-support.ads.description" xml:space="preserve">
+    <value>As suas contribuições ajudam a manter o jogo independente e totalmente livre de anúncios e patrocinadores externos.</value>
+  </data>
+  <data name="support.why-support.tournaments.title" xml:space="preserve">
+    <value>Torneios oficiais</value>
+  </data>
+  <data name="support.why-support.tournaments.description" xml:space="preserve">
+    <value>Ajude a financiar a realização (e os prémios) dos torneios oficiais do Campeonato do Mundo de osu!.</value>
+  </data>
+  <data name="support.why-support.tournaments.link_text" xml:space="preserve">
+    <value>Explorar torneios &amp;raquo;</value>
+  </data>
+  <data name="support.why-support.bounty-program.title" xml:space="preserve">
+    <value>Programa de reputação de código aberto</value>
+  </data>
+  <data name="support.why-support.bounty-program.description" xml:space="preserve">
+    <value>Apoie os contribuidores da comunidade que dedicaram o seu tempo e esforço para ajudar a tornar o osu! melhor.</value>
+  </data>
+  <data name="support.why-support.bounty-program.link_text" xml:space="preserve">
+    <value>Descubra mais &amp;raquo;</value>
+  </data>
+  <data name="support.perks.title" xml:space="preserve">
+    <value>Fixe! Que benefícios é que recebo?</value>
+  </data>
+  <data name="support.perks.osu_direct.title" xml:space="preserve">
+    <value>osu!direct</value>
+  </data>
+  <data name="support.perks.osu_direct.description" xml:space="preserve">
+    <value>Ganhe acesso rápido e fácil ao procurar e descarregar mapas sem ter de sair do jogo.</value>
+  </data>
+  <data name="support.perks.friend_ranking.title" xml:space="preserve">
+    <value>Classificação de amigos</value>
+  </data>
+  <data name="support.perks.friend_ranking.description" xml:space="preserve">
+    <value>Veja como se compara contra os seus amigos numa tabela de classificações do mapa, no jogo como também na página.</value>
+  </data>
+  <data name="support.perks.country_ranking.title" xml:space="preserve">
+    <value>Classificação nacional</value>
+  </data>
+  <data name="support.perks.country_ranking.description" xml:space="preserve">
+    <value>Conquiste o seu país antes de conquistar o mundo.</value>
+  </data>
+  <data name="support.perks.mod_filtering.title" xml:space="preserve">
+    <value>Filtrar por modificações</value>
+  </data>
+  <data name="support.perks.mod_filtering.description" xml:space="preserve">
+    <value>Associar‑se apenas a pessoas que jogam com HDHR? Sem problema!</value>
+  </data>
+  <data name="support.perks.auto_downloads.title" xml:space="preserve">
+    <value>Transferências automáticas</value>
+  </data>
+  <data name="support.perks.auto_downloads.description" xml:space="preserve">
+    <value>Os mapas serão transferidos automaticamente em jogos multijogador, ao assistir outros jogadores ou ao clicar em ligações relevantes na conversa!</value>
+  </data>
+  <data name="support.perks.upload_more.title" xml:space="preserve">
+    <value>Carregar mais</value>
+  </data>
+  <data name="support.perks.upload_more.description" xml:space="preserve">
+    <value>Espaços adicionais de mapas pendentes (por mapa classificado), até um máximo de 10.</value>
+  </data>
+  <data name="support.perks.early_access.title" xml:space="preserve">
+    <value>Acesso antecipado</value>
+  </data>
+  <data name="support.perks.early_access.description" xml:space="preserve">
+    <value>Obtenha acesso antecipado a novas versões com funcionalidades inéditas antes de serem públicas!&lt;br/&gt;&lt;br/&gt;Isto inclui também acesso antecipado a novas funcionalidades na página!</value>
+  </data>
+  <data name="support.perks.customisation.title" xml:space="preserve">
+    <value>Personalização</value>
+  </data>
+  <data name="support.perks.customisation.description" xml:space="preserve">
+    <value>Destaque‑se o carregar uma imagem de capa personalizada, criar uma secção “sobre mim” totalmente personalizável ou até alterar a cor do seu perfil para a que preferir.</value>
+  </data>
+  <data name="support.perks.beatmap_filters.title" xml:space="preserve">
+    <value>Filtros de mapa</value>
+  </data>
+  <data name="support.perks.beatmap_filters.description" xml:space="preserve">
+    <value>Filtra as pesquisas de mapas por mapas jogados e não jogados, ou pela classificação alcançada.</value>
+  </data>
+  <data name="support.perks.yellow_fellow.title" xml:space="preserve">
+    <value>Companheiro amarelo</value>
+  </data>
+  <data name="support.perks.yellow_fellow.description" xml:space="preserve">
+    <value>Seja reconhecido no jogo com a sua nova cor amarela brilhante no nome de utilizador na conversa.</value>
+  </data>
+  <data name="support.perks.speedy_downloads.title" xml:space="preserve">
+    <value>Transferências Velozes</value>
+  </data>
+  <data name="support.perks.speedy_downloads.description" xml:space="preserve">
+    <value>Restrições de transferência mais permissivas, especialmente ao utilizar o osu!direct.</value>
+  </data>
+  <data name="support.perks.change_username.title" xml:space="preserve">
+    <value>Mudar o nome de utilizador</value>
+  </data>
+  <data name="support.perks.change_username.description" xml:space="preserve">
+    <value>Uma alteração de nome gratuita está incluída na sua primeira compra de apoiante.</value>
+  </data>
+  <data name="support.perks.skinnables.title" xml:space="preserve">
+    <value>Elementos adicionais de visuais</value>
+  </data>
+  <data name="support.perks.skinnables.description" xml:space="preserve">
+    <value>Visuais adicionais no jogo, como o fundo do menu principal.</value>
+  </data>
+  <data name="support.perks.feature_votes.title" xml:space="preserve">
+    <value>Votos de funcionalidades</value>
+  </data>
+  <data name="support.perks.feature_votes.description" xml:space="preserve">
+    <value>Votos para solicitações de funcionalidades. (2 por mês)</value>
+  </data>
+  <data name="support.perks.sort_options.title" xml:space="preserve">
+    <value>Ordenar Opções</value>
+  </data>
+  <data name="support.perks.sort_options.description" xml:space="preserve">
+    <value>A possibilidade de ver classificações específicas por país, amigos ou modificações diretamente no jogo.</value>
+  </data>
+  <data name="support.perks.more_favourites.title" xml:space="preserve">
+    <value>Mais favoritos</value>
+  </data>
+  <data name="support.perks.more_favourites.description" xml:space="preserve">
+    <value>O número máximo de mapas que pode adicionar aos favoritos aumentou de {0} &amp;rarr; {1}</value>
+  </data>
+  <data name="support.perks.more_friends.title" xml:space="preserve">
+    <value>Mais amigos</value>
+  </data>
+  <data name="support.perks.more_friends.description" xml:space="preserve">
+    <value>O número máximo de amigos que pode ter aumentou de {0} &amp;rarr; {1}</value>
+  </data>
+  <data name="support.perks.more_beatmaps.title" xml:space="preserve">
+    <value>Carregar mais mapas</value>
+  </data>
+  <data name="support.perks.more_beatmaps.description" xml:space="preserve">
+    <value>O número de mapas pendentes que pode ter ao mesmo tempo é calculado a partir de um valor base, mais um bónus adicional por cada mapa classificado que tenha (até um limite).&lt;br/&gt;&lt;br/&gt;Normalmente, este valor é {0} mais {1} por mapa classificado (até {2}). Com o supporter, aumenta para {3} mais {4} por mapa classificado (até {5}).</value>
+  </data>
+  <data name="support.perks.friend_filtering.title" xml:space="preserve">
+    <value>Classificações de amigos</value>
+  </data>
+  <data name="support.perks.friend_filtering.description" xml:space="preserve">
+    <value>Compita com os seus amigos e veja como se classifica contra eles!</value>
+  </data>
+  <data name="support.supporter_status.contribution_with_duration" xml:space="preserve">
+    <value>Obrigado pelo seu apoio contínuo! Até agora, contribuiu um total de {0}, o que lhe garantiu a etiqueta de "Apoiador" por {1}.</value>
+  </data>
+  <data name="support.supporter_status.not_yet" xml:space="preserve">
+    <value>Nunca teve uma etiqueta de osu!supporter :(</value>
+  </data>
+  <data name="support.supporter_status.valid_until" xml:space="preserve">
+    <value>A sua etiqueta de osu!supporter é válida até {0}!</value>
+  </data>
+  <data name="support.supporter_status.was_valid_until" xml:space="preserve">
+    <value>A sua etiqueta de osu!supporter foi válida até {0}.</value>
+  </data>
+  <data name="support.supporter_status.gifted._" xml:space="preserve">
+    <value>Das suas contribuições totais, ofereceu etiquetas no valor de {0} a {1}, cobrindo {2}. Isso é incrivelmente generoso!</value>
+  </data>
+  <data name="support.supporter_status.gifted.users" xml:space="preserve">
+    <value>{0} outro utilizador|{0} outros utilizadores</value>
+  </data>
+</root>

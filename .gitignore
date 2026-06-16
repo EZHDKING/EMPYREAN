@@ -1,0 +1,5 @@
+/dist/
+/.git-empyrean-framework/
+/.git-empyrean-resources/
+bin/
+obj/

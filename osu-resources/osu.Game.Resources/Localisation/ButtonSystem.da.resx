@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0"/>
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string"/>
+              <xsd:attribute name="type" type="xsd:string"/>
+              <xsd:attribute name="mimetype" type="xsd:string"/>
+              <xsd:attribute ref="xml:space"/>
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string"/>
+              <xsd:attribute name="name" type="xsd:string"/>
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1"/>
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2"/>
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1"/>
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3"/>
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4"/>
+              <xsd:attribute ref="xml:space"/>
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1"/>
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required"/>
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="solo" xml:space="preserve">
+    <value>solo</value>
+  </data>
+  <data name="multi" xml:space="preserve">
+    <value>multi</value>
+  </data>
+  <data name="playlists" xml:space="preserve">
+    <value>playlister</value>
+  </data>
+  <data name="play" xml:space="preserve">
+    <value>spil</value>
+  </data>
+  <data name="edit" xml:space="preserve">
+    <value>rediger</value>
+  </data>
+  <data name="browse" xml:space="preserve">
+    <value>udforsk</value>
+  </data>
+  <data name="settings" xml:space="preserve">
+    <value>indstillinger</value>
+  </data>
+  <data name="back" xml:space="preserve">
+    <value>tilbage</value>
+  </data>
+  <data name="exit" xml:space="preserve">
+    <value>luk</value>
+  </data>
+  <data name="daily_challenge" xml:space="preserve">
+    <value>daglig udfordring</value>
+  </data>
+  <data name="lounge" xml:space="preserve">
+    <value>lounge</value>
+  </data>
+  <data name="quick_play" xml:space="preserve">
+    <value>hurtigt spil</value>
+  </data>
+  <data name="ranked_play" xml:space="preserve">
+    <value>rangeret spil</value>
+  </data>
+  <data name="mobile_disclaimer_header" xml:space="preserve">
+    <value>Et par vigtige ord fra dit udvikler hold!</value>
+  </data>
+  <data name="mobile_disclaimer_body" xml:space="preserve">
+    <value>Mens vi har frigivet osu! på mobile platforme for at maksimere antallet af personer, der kan nyde spillet, er vores stadig på PC-versionen.
+
+Din oplevelse vil ikke være perfekt, og kan endda føles underlegen i forhold til spil, der er lavet med mobil-først design.
+
+Vær venlig at bære over med os, da vi fortsætter med at forbedre spillet for dig!</value>
+  </data>
+  <data name="mobile_disclaimer_ok_button" xml:space="preserve">
+    <value>Forstået</value>
+  </data>
+</root>

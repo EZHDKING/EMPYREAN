@@ -1,0 +1,141 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0"/>
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string"/>
+              <xsd:attribute name="type" type="xsd:string"/>
+              <xsd:attribute name="mimetype" type="xsd:string"/>
+              <xsd:attribute ref="xml:space"/>
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string"/>
+              <xsd:attribute name="name" type="xsd:string"/>
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1"/>
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2"/>
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1"/>
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3"/>
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4"/>
+              <xsd:attribute ref="xml:space"/>
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1"/>
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required"/>
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="header_text" xml:space="preserve">
+    <value>Babala</value>
+  </data>
+  <data name="deletion_header_text" xml:space="preserve">
+    <value>Sigurado ka ba sa pagbura ng mga sumusunod:</value>
+  </data>
+  <data name="confirm" xml:space="preserve">
+    <value>Oo. Gawin natin.</value>
+  </data>
+  <data name="cancel" xml:space="preserve">
+    <value>Hindi! Bawiin ang misyon</value>
+  </data>
+  <data name="stable_directory_location_header_text" xml:space="preserve">
+    <value>Hindi nahanap ng awtomatiko ang osu!stable installation.</value>
+  </data>
+  <data name="stable_directory_location_body_text" xml:space="preserve">
+    <value>Hindi mahanap ang install. Kung alam mo kung nasaan ito, maaari mo itong hanapin.</value>
+  </data>
+  <data name="stable_directory_location_ok_button" xml:space="preserve">
+    <value>Sige! Alam ko kung nasaan ito!</value>
+  </data>
+  <data name="stable_directory_location_cancel_button" xml:space="preserve">
+    <value>Sa totoo lang wala akong osu!stable na naka-install.</value>
+  </data>
+  <data name="beatmap_clear_scores_body_text" xml:space="preserve">
+    <value>Lahat ng local score sa {0}</value>
+  </data>
+  <data name="close_playlist_header_text" xml:space="preserve">
+    <value>Sigurado ka bang gusto mo isara ang mga sumusunod na playlist:</value>
+  </data>
+  <data name="confirm_abort_match_header_text" xml:space="preserve">
+    <value>Sigurado ka bang gusto mo itigil ang match na ito?</value>
+  </data>
+  <data name="confirm_exit_header_text" xml:space="preserve">
+    <value>Sigurado ka bang gusto mo umalis sa osu!?</value>
+  </data>
+  <data name="confirm_exit_body_text" xml:space="preserve">
+    <value>Huling pagkakataon para bumalik</value>
+  </data>
+  <data name="confirm_exit_body_text_ongoing_operations" xml:space="preserve">
+    <value>May mga background na operasyon na mahihinto kapag tumuloy ka:
+
+{0}</value>
+  </data>
+  <data name="confirm_exit_body_text_other_ongoing_operations" xml:space="preserve">
+    <value>May mga background na operasyon na mahihinto kapag tumuloy ka:
+
+{0}
+
+at {0} iba pang operasyon.</value>
+  </data>
+  <data name="confirm_exit_ok_button" xml:space="preserve">
+    <value>Palabasin mo ako!</value>
+  </data>
+  <data name="confirm_exit_cancel_button" xml:space="preserve">
+    <value>Konti na lang...</value>
+  </data>
+  <data name="confirm_discard_changes_header_text" xml:space="preserve">
+    <value>Sigurado ka bang gusto mo bumalik?</value>
+  </data>
+  <data name="confirm_discard_changes_body_text" xml:space="preserve">
+    <value>Itatapon ang mga hindi na-save na pagbabago</value>
+  </data>
+  <data name="confirm_discard_changes_cancel_button" xml:space="preserve">
+    <value>Hindi ko sinasadya</value>
+  </data>
+  <data name="external_link_body_text" xml:space="preserve">
+    <value>Sigurado ka bang gusto mo buksan ang link na ito sa web browser?
+
+{0}</value>
+  </data>
+  <data name="external_link_ok_button" xml:space="preserve">
+    <value>Buksan sa browser</value>
+  </data>
+  <data name="delete_comment_body_text" xml:space="preserve">
+    <value>Gusto mo ba talaga na tanggalin ang iyong komento?</value>
+  </data>
+  <data name="confirm_exit_multiplayer_match_body_text" xml:space="preserve">
+    <value>Sigurado ka bang gusto mo umalis sa multiplayer match na ito?</value>
+  </data>
+</root>

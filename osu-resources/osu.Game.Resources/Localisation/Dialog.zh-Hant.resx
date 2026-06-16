@@ -1,0 +1,141 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0"/>
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string"/>
+              <xsd:attribute name="type" type="xsd:string"/>
+              <xsd:attribute name="mimetype" type="xsd:string"/>
+              <xsd:attribute ref="xml:space"/>
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string"/>
+              <xsd:attribute name="name" type="xsd:string"/>
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1"/>
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2"/>
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1"/>
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3"/>
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4"/>
+              <xsd:attribute ref="xml:space"/>
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1"/>
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required"/>
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="header_text" xml:space="preserve">
+    <value>注意</value>
+  </data>
+  <data name="deletion_header_text" xml:space="preserve">
+    <value>您確定要刪除此項嗎？</value>
+  </data>
+  <data name="confirm" xml:space="preserve">
+    <value>是，請執行。</value>
+  </data>
+  <data name="cancel" xml:space="preserve">
+    <value>不！中止任務</value>
+  </data>
+  <data name="stable_directory_location_header_text" xml:space="preserve">
+    <value>無法自動定位 osu!stable 的安裝位置。</value>
+  </data>
+  <data name="stable_directory_location_body_text" xml:space="preserve">
+    <value>找不到現有的安裝位置。如果你知道它在哪，你可以幫忙定位它。</value>
+  </data>
+  <data name="stable_directory_location_ok_button" xml:space="preserve">
+    <value>好啊！我知道它在哪！</value>
+  </data>
+  <data name="stable_directory_location_cancel_button" xml:space="preserve">
+    <value>其實我沒有安裝 osu!stable。</value>
+  </data>
+  <data name="beatmap_clear_scores_body_text" xml:space="preserve">
+    <value>在 {0} 上的所有本機分數</value>
+  </data>
+  <data name="close_playlist_header_text" xml:space="preserve">
+    <value>您確定要關閉下列的歌單：</value>
+  </data>
+  <data name="confirm_abort_match_header_text" xml:space="preserve">
+    <value>您確定要取消這場遊戲？</value>
+  </data>
+  <data name="confirm_exit_header_text" xml:space="preserve">
+    <value>您確定要離開 osu!？</value>
+  </data>
+  <data name="confirm_exit_body_text" xml:space="preserve">
+    <value>最後一次回頭的機會</value>
+  </data>
+  <data name="confirm_exit_body_text_ongoing_operations" xml:space="preserve">
+    <value>有些背景動作會在您繼續後停止作業：
+
+{0}</value>
+  </data>
+  <data name="confirm_exit_body_text_other_ongoing_operations" xml:space="preserve">
+    <value>有些背景動作會在您繼續後停止作業：
+
+{0}
+
+和其他 {1} 個動作。</value>
+  </data>
+  <data name="confirm_exit_ok_button" xml:space="preserve">
+    <value>讓我離開！</value>
+  </data>
+  <data name="confirm_exit_cancel_button" xml:space="preserve">
+    <value>再一下下……</value>
+  </data>
+  <data name="confirm_discard_changes_header_text" xml:space="preserve">
+    <value>您確定要返回嗎？</value>
+  </data>
+  <data name="confirm_discard_changes_body_text" xml:space="preserve">
+    <value>這會拋棄所有未存檔的更動</value>
+  </data>
+  <data name="confirm_discard_changes_cancel_button" xml:space="preserve">
+    <value>不，我並沒有要這樣做</value>
+  </data>
+  <data name="external_link_body_text" xml:space="preserve">
+    <value>您確定要在瀏覽器中開啟此連結？
+
+{0}</value>
+  </data>
+  <data name="external_link_ok_button" xml:space="preserve">
+    <value>在瀏覽器中開啟</value>
+  </data>
+  <data name="delete_comment_body_text" xml:space="preserve">
+    <value>您確定要刪除這段留言？</value>
+  </data>
+  <data name="confirm_exit_multiplayer_match_body_text" xml:space="preserve">
+    <value>您確定要離開這場多人遊戲？</value>
+  </data>
+</root>

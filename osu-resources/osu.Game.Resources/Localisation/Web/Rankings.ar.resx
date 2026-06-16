@@ -1,0 +1,222 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="countries.all" xml:space="preserve">
+    <value>الكل</value>
+  </data>
+  <data name="countries.title" xml:space="preserve">
+    <value>الدولة</value>
+  </data>
+  <data name="daily_challenge.beatmap" xml:space="preserve">
+    <value>الصعوبة</value>
+  </data>
+  <data name="daily_challenge.top_10p" xml:space="preserve">
+    <value>أفضل 10% من النتائج</value>
+  </data>
+  <data name="daily_challenge.top_50p" xml:space="preserve">
+    <value>أفضل 50% من النتائج</value>
+  </data>
+  <data name="daily_challenge.unavailable.future" xml:space="preserve">
+    <value>لا يوجد تحدٍ يومي في التاريخ المحدد بعد!</value>
+  </data>
+  <data name="daily_challenge.unavailable.past" xml:space="preserve">
+    <value>لا يوجد تحدٍ يومي في التاريخ المحدد!</value>
+  </data>
+  <data name="filter.title" xml:space="preserve">
+    <value>عرض</value>
+  </data>
+  <data name="filter.variant.title" xml:space="preserve">
+    <value>النوع</value>
+  </data>
+  <data name="kudosu.total" xml:space="preserve">
+    <value>المُكتسب</value>
+  </data>
+  <data name="kudosu.available" xml:space="preserve">
+    <value>متوفر</value>
+  </data>
+  <data name="kudosu.used" xml:space="preserve">
+    <value>المُنفق</value>
+  </data>
+  <data name="matchmaking.plays" xml:space="preserve">
+    <value>مرات اللعب</value>
+  </data>
+  <data name="matchmaking.points" xml:space="preserve">
+    <value>النقاط</value>
+  </data>
+  <data name="matchmaking.provisional" xml:space="preserve">
+    <value>لم يتم لعب عدد كافٍ من المباريات لتحديد التصنيف بدقة</value>
+  </data>
+  <data name="matchmaking.rating" xml:space="preserve">
+    <value>التقييم</value>
+  </data>
+  <data name="matchmaking.wins" xml:space="preserve">
+    <value>مرات الفوز
+</value>
+  </data>
+  <data name="multiplayer.room_name" xml:space="preserve">
+    <value>إسم الغرفة</value>
+  </data>
+  <data name="performance.insufficient_history" xml:space="preserve">
+    <value>لهذا المستخدم سِجل ترتيب يقل عن 30 يوماً.</value>
+  </data>
+  <data name="top_plays.empty" xml:space="preserve">
+    <value>يتم حساب البيانات...</value>
+  </data>
+  <data name="top_plays.last_updated" xml:space="preserve">
+    <value>تاريخ آخر تحديث</value>
+  </data>
+  <data name="playlists.charts" xml:space="preserve">
+    <value>الأضواء القديمة</value>
+  </data>
+  <data name="playlists.featured" xml:space="preserve">
+    <value>مميّز
+</value>
+  </data>
+  <data name="playlists.season_room" xml:space="preserve">
+    <value>غرفة الموسم</value>
+  </data>
+  <data name="playlists.seasons" xml:space="preserve">
+    <value>مواسم</value>
+  </data>
+  <data name="type.country" xml:space="preserve">
+    <value>الدولة</value>
+  </data>
+  <data name="type.daily_challenge" xml:space="preserve">
+    <value>التحدّي اليومي</value>
+  </data>
+  <data name="type.global" xml:space="preserve">
+    <value>عالمي</value>
+  </data>
+  <data name="type.kudosu" xml:space="preserve">
+    <value>كودوسو</value>
+  </data>
+  <data name="type.matchmaking" xml:space="preserve">
+    <value>اللعب المصنّف</value>
+  </data>
+  <data name="type.playlists" xml:space="preserve">
+    <value>قوائم التشغيل</value>
+  </data>
+  <data name="type.team" xml:space="preserve">
+    <value>الفريق</value>
+  </data>
+  <data name="type.top_plays" xml:space="preserve">
+    <value>أفضل الأداءات</value>
+  </data>
+  <data name="seasons.empty" xml:space="preserve">
+    <value>لا توجد غرف في هذا الموسم حتى الآن.</value>
+  </data>
+  <data name="seasons.ongoing" xml:space="preserve">
+    <value>هذا الموسم لا يزال جاريا (سيتم إضافة المزيد من قوائم التشغيل).</value>
+  </data>
+  <data name="seasons.room_count" xml:space="preserve">
+    <value>عدد قوائم التشغيل</value>
+  </data>
+  <data name="seasons.summary" xml:space="preserve">
+    <value>عرض ملخص الموسم</value>
+  </data>
+  <data name="seasons.url" xml:space="preserve">
+    <value>عرض المزيد من المعلومات عن هذا الموسم.</value>
+  </data>
+  <data name="seasons.validation.not_enough_factors" xml:space="preserve">
+    <value>لا توجد عوامل تقييم كافية لإجراء الحساب بشكل صحيح</value>
+  </data>
+  <data name="spotlight.end_date" xml:space="preserve">
+    <value>تاريخ الانتهاء</value>
+  </data>
+  <data name="spotlight.map_count" xml:space="preserve">
+    <value>عدد الخرائط</value>
+  </data>
+  <data name="spotlight.participants" xml:space="preserve">
+    <value>المشاركون</value>
+  </data>
+  <data name="spotlight.start_date" xml:space="preserve">
+    <value>تاريخ البداية</value>
+  </data>
+  <data name="stat.accuracy" xml:space="preserve">
+    <value>الدِقَّة</value>
+  </data>
+  <data name="stat.active_users" xml:space="preserve">
+    <value>المستخدمين النشطين</value>
+  </data>
+  <data name="stat.country" xml:space="preserve">
+    <value>الدولة</value>
+  </data>
+  <data name="stat.members" xml:space="preserve">
+    <value>الأعضاء</value>
+  </data>
+  <data name="stat.play_count" xml:space="preserve">
+    <value>مرات اللعب</value>
+  </data>
+  <data name="stat.performance" xml:space="preserve">
+    <value>الأداء</value>
+  </data>
+  <data name="stat.total_score" xml:space="preserve">
+    <value>مجموع النقاط</value>
+  </data>
+  <data name="stat.ranked_score" xml:space="preserve">
+    <value>نتيجة Ranked</value>
+  </data>
+  <data name="stat.average_score" xml:space="preserve">
+    <value>متوسط النقاط</value>
+  </data>
+  <data name="stat.average_performance" xml:space="preserve">
+    <value>متوسط الاداء.</value>
+  </data>
+</root>
