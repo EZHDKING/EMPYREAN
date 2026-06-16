@@ -115,6 +115,10 @@ corner, all live.
 
 ### Improved Access to Beatmaps
 - You can create collections / delete them / sort them / rename them / group them extremely easy with the simplistic Windows 95/98/XP GUI Everyone is familiar with. Everything is crystal clear and simplistic, nothing is complicated.
+- 
+
+### Extended Difficulty Adjustment
+- You can extend DIFFICULTY Adjust to negative values, Daycore for upto 0.01x (MIGHT CRASH!!!) and DoubleTime to over 100.0x. With EMPYREAN, Nothing stands in your way to practice. 
 
 ---
 
