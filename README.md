@@ -2,7 +2,7 @@
 
 **osu!lazer, but better.**
 
-[![SHOWCASE](https://img.youtube.com/vi/nD2LMgIkZzM/hqdefault.jpg)](https://www.youtube.com/watch?v=nD2LMgIkZzM)
+[![SHOWCASE](https://img.youtube.com/vi/nD2LMgIkZzM/maxresdefault.jpg)](https://www.youtube.com/watch?v=nD2LMgIkZzM)
 
 > Creator: **EZHD KING** /
 > DEDICATED TO TERRY A. DAVIS
